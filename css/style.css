@@ -1,0 +1,23 @@
+p {
+	font-size: 18px;
+}
+
+h2 {
+font-size: 20px;	
+}
+
+
+h1 {
+font-size: 50px;
+}
+
+
+.imgLeft {
+	float:left;
+	border-style: solid;
+}
+
+.imgRight {
+	float:right;
+	border-style: solid;
+}
